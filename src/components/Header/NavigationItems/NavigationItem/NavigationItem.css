@@ -1,0 +1,11 @@
+.NavigationItem{
+    margin-left: 30px;
+}
+.NavigationItem a{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-family: 'Source Sans Pro', sans-serif;
+}
